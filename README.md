@@ -1,7 +1,9 @@
 # ssap
 Self-study application program - 대전과학고등학교 자습신청 프로그램
 
+
 Read README.txt for how to use
+
 
 This Program requires some python external librarys and other programs.
 
@@ -10,6 +12,7 @@ This Program requires some python external librarys and other programs.
 -tkinter
 
 -Chrome with chromedriver ( https://sites.google.com/a/chromium.org/chromedriver/downloads )
+
 
 DJSHS.cpp, DJSHS.exe - start _FILE_ (Which is same as main.py) - apply once (console)
 
