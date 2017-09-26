@@ -14,10 +14,8 @@ This Program requires some python external librarys and other programs.
 -Chrome with chromedriver ( https://sites.google.com/a/chromium.org/chromedriver/downloads )
 
 
-DJSHS.cpp, DJSHS.exe - start _FILE_ (Which is same as main.py) - apply once (console)
+2017.09.26(KST)
 
-GUI.cpp, GUI.exe - start _G_ (Which is same as DJSHS.py) - With GUI(TKinter)
-
-loop.cpp, loop.exe - start _FILE_ , but does not stop and apply every 8 am.
-
-install.bat - install python library(selenium)
+Few bug fixed.
+- sometimes application doesn't work. fixed
+Deleted many files.
